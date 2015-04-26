@@ -33,6 +33,7 @@ Notes:
 ======
 - Features are normalized and bounded within [-1,1].
 - Each feature is the mean of all observations of that feature for each subject in each activity
+- The tidy data set was designed based on the musings seen in https://class.coursera.org/getdata-013/forum/thread?thread_id=30
 
 *Jessica Alana James*
 
